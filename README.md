@@ -1,3 +1,17 @@
+<h1 align="center">
+Hi 👋, I'm Kunal Srivastava
+</h1>
+
+<h3 align="center">
+AI • Data Science • Software Development
+</h3>
+
+<p align="center">
+Building intelligent solutions with Python, Machine Learning and Full-Stack Development.
+</p>
+
+---
+
 # 💫 About Me:
 ## About Me :<br><br>🔭 I’m currently working on **Fin-AI, AI-powered finance management solutions, and Data Science projects**<br><br>👯 I’m looking to collaborate on **Open Source, AI/ML, Data Science, and Full-Stack Development projects**<br><br>🤝 I’m looking for help with **scaling AI applications, cloud deployment, and advanced machine learning workflows**<br><br>🌱 I’m currently learning **Machine Learning, Deep Learning, React.js, and System Design**<br><br>💬 Ask me about **Python, Data Science, Git/GitHub, LeetCode, and AI Fundamentals**<br><br>⚡ Fun fact: **I've completed 150+ days of consistent LeetCode problem-solving and love turning ideas into real-world projects.**
 
