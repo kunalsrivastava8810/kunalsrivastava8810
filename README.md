@@ -631,16 +631,6 @@ Developed Python-based applications while strengthening software engineering fun
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kunalsrivastava8810&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
-
-</p>
-
----
-
 # 📈 Contribution Activity
 
 <p align="center">
