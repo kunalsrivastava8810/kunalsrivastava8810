@@ -657,7 +657,7 @@ Developed Python-based applications while strengthening software engineering fun
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/kunalsrivastava8810/kunalsrivastava8810/output/github-contribution-grid-snake-dark.svg"/>
+<img width="880" height="192" alt="Image" src="https://github.com/user-attachments/assets/5727752d-043b-458c-855a-4ebb21c69664" />
 
 </p>
 
