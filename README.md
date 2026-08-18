@@ -146,7 +146,7 @@ From developing AI-powered applications to uncovering insights through data, I'm
 
 <p align="center">
 
-<img width="880" height="192" alt="Image" src="https://github.com/user-attachments/assets/5727752d-043b-458c-855a-4ebb21c69664" />
+<img width="880" height="192" alt="Image" src="github-user-contribution.svg" />
 
 </p>
 
