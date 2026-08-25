@@ -3,11 +3,11 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=310&color=gradient&customColorList=6,12,20,24,30&text=Kunal%20Srivastava&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=60&descSize=21"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=310&color=E03B3B&customColorList=6,12,20,24,30&text=Kunal%20Srivastava&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=60&descSize=21"/>
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=19&duration=3500&pause=1200&color=A855F7&width=435&lines=Building+AI-Powered+Products;+Transforming+Data+Into+Insights;Engineering+Scalable+Software;Open+Source+Contributor;Friendly+Neighborhood+Software+Engineer+%F0%9F%95%B8%EF%B8%8F" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=19&duration=3500&pause=1200&color=E03B3B&width=435&lines=Building+AI-Powered+Products;+Transforming+Data+Into+Insights;Engineering+Scalable+Software;Open+Source+Contributor;Friendly+Neighborhood+Software+Engineer+%F0%9F%95%B8%EF%B8%8F" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -29,16 +29,16 @@
 <p align="center">
 
 <a href="https://github.com/kunalsrivastava8810">
-<img src="https://komarev.com/ghpvc/?username=kunalsrivastava8810&label=Profile%20Views&style=for-the-badge&color=7C3AED"/>
+<img src="https://komarev.com/ghpvc/?username=kunalsrivastava8810&label=Profile%20Views&style=for-the-badge&color=E03B3B"/>
 </a>
 
 <a href="https://github.com/kunalsrivastava8810?tab=followers">
-<img src="https://img.shields.io/github/followers/kunalsrivastava8810?logo=github&style=for-the-badge&color=7C3AED"/>
+<img src="https://img.shields.io/github/followers/kunalsrivastava8810?logo=github&style=for-the-badge&color=E03B3B"/>
 </a>
 
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-E03B3B?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Available%20for-Internships%20%26%20Collaboration-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Available%20for-Internships%20%26%20Collaboration-E03B3B?style=for-the-badge"/>
 
 </p>
 
@@ -63,7 +63,7 @@ From developing AI-powered applications to uncovering insights through data, I'm
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=7C3AED"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=E03B3B"/>
 </p>
 
 
@@ -116,7 +116,7 @@ From developing AI-powered applications to uncovering insights through data, I'm
 </div>
 
 
-# 📊 GitHub Analytics
+<!-- # 📊 GitHub Analytics
 
 <p align="center">
 
@@ -138,7 +138,7 @@ From developing AI-powered applications to uncovering insights through data, I'm
 
 </p>
 
----
+--- -->
 
 # 🐍 Contribution Snake
 
@@ -188,6 +188,6 @@ From developing AI-powered applications to uncovering insights through data, I'm
 
 <p align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient&customColorList=6,12,20,24,30"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=E03B3B&customColorList=6,12,20,24,30"/>
 
 </p>
