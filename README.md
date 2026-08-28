@@ -2,6 +2,7 @@
 <!--                     HERO SECTION                           -->
 <!-- ========================================================= -->
 
+
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=310&color=E03B3B&customColorList=6,12,20,24,30&text=Kunal%20Srivastava&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=60&descSize=21"/>
 </p>
